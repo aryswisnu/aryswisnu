@@ -1,6 +1,6 @@
 # I Kadek Bayu Arys Wisnu Kencana
 
-Software engineer. I build small macOS tools and agent skills.
+I do not write code anymore. That problem is solved and the machines have it. I keep the unsolved ones, like deciding what is worth building. These are the results.
 
 ## macOS apps
 
@@ -12,11 +12,6 @@ Software engineer. I build small macOS tools and agent skills.
 
 - [skills](https://github.com/aryswisnu/skills): reusable Claude Code and Codex skills for practical engineering work.
 - [visualize-pr](https://github.com/aryswisnu/skills/tree/main/skills/engineering/visualize-pr): turns a pull request into reviewer-ready evidence written into the PR: notes, a change map, a sequence diagram, and screenshots for web changes.
-
-## Research and experiments
-
-- [AFINN-IndonesianTales](https://github.com/aryswisnu/AFINN-IndonesianTales): AFINN sentiment lexicon for Indonesian tales classification.
-- [dsh-composition-check](https://github.com/aryswisnu/dsh-composition-check): evidence-backed compatibility checks for DeepSeek Harness plugin stacks.
 
 ## Audio
 
