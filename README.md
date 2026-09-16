@@ -1,4 +1,4 @@
-# Arys Wisnu
+# I Kadek Bayu Arys Wisnu Kencana
 
 Software engineer. I build small macOS tools and agent skills.
 
