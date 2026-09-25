@@ -17,6 +17,10 @@ I do not write code anymore. That problem is solved and the machines have it. I 
 - [MacClean](https://github.com/aryswisnu/MacClean): small, fast disk cleanup. Reclaims space from caches, logs and dev tools, finds your largest files, backs them up to an external drive or Google Drive.
 - [ScreenBright](https://github.com/aryswisnu/ScreenBright): brightness keys for external monitors macOS refuses to control. Gamma-table LUT for panels with dead DDC, in one Swift file.
 
+## Command-line tools
+
+- [csessions](https://github.com/aryswisnu/csessions): every Claude Code session on every machine you use, in one terminal list. Shows which ones your phone can drive, brings back closed ones, and counts token spend.
+
 ## Agent skills
 
 - [skills](https://github.com/aryswisnu/skills): reusable Claude Code and Codex skills for practical engineering work.
