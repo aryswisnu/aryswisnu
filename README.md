@@ -25,6 +25,7 @@ I do not write code anymore. That problem is solved and the machines have it. I 
 
 - [skills](https://github.com/aryswisnu/skills): reusable Claude Code and Codex skills for practical engineering work.
 - [visualize-pr](https://github.com/aryswisnu/skills/tree/main/skills/engineering/visualize-pr): turns a pull request into reviewer-ready evidence written into the PR: notes, a change map, a sequence diagram, and screenshots for web changes.
+- [ticket-loop](https://github.com/aryswisnu/skills/tree/main/skills/engineering/ticket-loop): carries one ticket from plan to done without stopping halfway. A live checklist page, a Stop hook that sends the agent back to the next open step, and one approval gate. Your team's process stays in a private config.
 
 ## Audio
 
