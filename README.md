@@ -21,6 +21,10 @@ I do not write code anymore. That problem is solved and the machines have it. I 
 
 - [csessions](https://github.com/aryswisnu/csessions): every Claude Code session on every machine you use, in one terminal list. Shows which ones your phone can drive, brings back closed ones, and counts token spend.
 
+## Claude Code plugins
+
+- [session-hud](https://github.com/aryswisnu/session-hud): a live HUD for every Claude Code session. Context, spend, usage limits and repo status in framed RPG gauges, and your subagents as a voxel fantasy party around a campfire that grows while they work.
+
 ## Agent skills
 
 - [skills](https://github.com/aryswisnu/skills): reusable Claude Code and Codex skills for practical engineering work.
