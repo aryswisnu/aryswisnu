@@ -23,7 +23,7 @@ I do not write code anymore. That problem is solved and the machines have it. I 
 
 ## Claude Code plugins
 
-- [session-hud](https://github.com/aryswisnu/session-hud): a live HUD for every Claude Code session. Context, spend, usage limits and repo status in framed RPG gauges, and your subagents as a voxel fantasy party around a campfire that grows while they work.
+- [campfire-hud](https://github.com/aryswisnu/campfire-hud): a live HUD for every Claude Code session. Context, spend, usage limits and repo status in framed RPG gauges, and your subagents as a voxel fantasy party around a campfire that grows while they work.
 
 ## Agent skills
 
