@@ -11,8 +11,9 @@ I do not write code anymore. That problem is solved and the machines have it. I 
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
-## macOS apps
+## Open-source software
 
+- [Hermes TV](https://github.com/aryswisnu/hermes-tv): turns an Android TV into a really smart one. An ad-free home screen that picks films by the time of day from what streams in your region, a Hermes agent you ask in chat to put films on the TV, and your IP cameras in one press.
 - [GridTile](https://github.com/aryswisnu/GridTile): one shortcut tiles every visible window into a grid that fits, sized from the window count. Zero dependencies.
 - [MacClean](https://github.com/aryswisnu/MacClean): small, fast disk cleanup. Reclaims space from caches, logs and dev tools, finds your largest files, backs them up to an external drive or Google Drive.
 - [ScreenBright](https://github.com/aryswisnu/ScreenBright): brightness keys for external monitors macOS refuses to control. Gamma-table LUT for panels with dead DDC, in one Swift file.
